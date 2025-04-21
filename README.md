@@ -1,5 +1,3 @@
 ### test
 test project
-
-  
-  mn panditha netha
+onna balanna error wena heti
